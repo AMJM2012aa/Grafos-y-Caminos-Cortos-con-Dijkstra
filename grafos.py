@@ -20,7 +20,7 @@ class GrafoDirigido:
         for fila in self.matriz_adyacencia:
             print(fila)
 
-# Ejemplo de uso
+# Ejemplo de uso grafo
 grafo = GrafoDirigido(5)  # Crea un grafo con 5 nodos
 
 # Agregar aristas
